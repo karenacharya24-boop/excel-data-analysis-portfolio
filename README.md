@@ -67,6 +67,5 @@ Engineered a scalable, structured workforce tracking template designed to log co
 
 ## 📁 Repository Structure
 - `/Excel Project 1_Interactive-Excel-Dashboard.xlsx` - Dynamic dashboard utilizing charts, pivot tables, and interactive slicers.
-- `/Excel Project 1_ Sum-in-Date-Range.xlsx` - Dynamic data sorting and interval calculation tool.
-- `/Excel Project 2_ Weekly-Time-Sheet-for-Employee.xlsx` - Automated workplace hours and payroll summary template.amic data sorting and interval calculation tool.
-- `/Excel Project 2_ Weekly-Time-Sheet-for-Employee.xlsx` - Automated workplace hours and payroll summary template.
+- `/Excel Project 2_ Sum-in-Date-Range.xlsx` - Dynamic data sorting and interval calculation tool.
+- `/Excel Project 3_ Weekly-Time-Sheet-for-Employee.xlsx` - Automated workplace hours and payroll summary template.amic data sorting and interval calculation tool.
