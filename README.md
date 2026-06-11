@@ -35,12 +35,12 @@ Developed an interactive calculation utility designed to crawl transaction ledge
 
 ### 📷 Workbook Interface & Feature Previews
 <p align="center">
-  <img src="p2_shot1.png" width="46%" alt="Data Validation Feed" />
+  <img src="p2_shot1.png" width="31%" alt="Data Validation Feed" />
   <img src="p2_shot2.png" width="31%" alt="Database Grid" />
   <img src="p2_shot3.png" width="31%" alt="Formula Time E0MONTH" />
 </p>
 <p align="center">
-  <img src="p2_shot4.png" width="31%" alt="Main Calculator View 1" />
+  <img src="p2_shot4.png" width="46%" alt="Main Calculator View 1" />
   <img src="p2_shot5.png" width="46%" alt="Main Calculator View 2" />
 </p>
 
